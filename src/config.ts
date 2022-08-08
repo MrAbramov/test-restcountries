@@ -1,0 +1,1 @@
+export const RESTCOUNTRIES_URL = process.env.REACT_APP_API_RESTCOUNTRIES_URL || '';
